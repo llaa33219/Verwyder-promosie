@@ -3,10 +3,6 @@
   "name": "엔트리-홍보제거",
   "version": "1.0",
   "description": "엔트리 이야기에서 좋아요를 누른 홍보 게시물을 자동으로 감지하고 제거합니다.",
-  "permissions": [
-    "storage",
-    "activeTab"
-  ],
   "host_permissions": [
     "https://playentry.org/*"
   ],
